@@ -1,14 +1,14 @@
-Coding Challenge Battle against ambiguity in Morse code
+﻿Coding Challenge Battle against ambiguity in Morse code
 ========================================================
 
 This problem was adapted from the 2007 ACM South American Programming Contest.  It has been utilized on a few online quiz sites as well.
 
-Solve this challenge and earn a Software Development Engineering interview with Litle & Co., we are looking for talented engineers.  You can find out more about Litle <a href="www.litle.com">here</a>.
+Solve this challenge and earn a Software Development Engineering interview with Litle & Co., we are looking for talented engineers.  You can find out more about Litle [here] (www.litle.com).
 
 Problem
 -------
 
-[Morse Code](http//en.wikipedia.org/Morse_code) is a means of encoding telegraphic messages as a series of long and short sounds or visual signals. During transmission, pauses are used to group letters and words.  However in written form morse code can be ambiguous.
+[Morse Code](http://en.wikipedia.org/wiki/Morse_code) is a means of encoding telegraphic messages as a series of long and short sounds or visual signals. During transmission, pauses are used to group letters and words.  However in written form morse code can be ambiguous.
 
 For example, using the typical dot (.) and dash (-) for a written representation of morse code, the word ...---..-....- could be an encoding of the names Sofia or Eugenia depending on where you break up the letters
 
