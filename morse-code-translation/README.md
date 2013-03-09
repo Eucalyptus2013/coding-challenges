@@ -3,7 +3,7 @@
 
 This problem was adapted from the 2007 ACM South American Programming Contest.  It has been utilized on a few online quiz sites as well.
 
-Solve this challenge and earn a Software Development Engineering interview with Litle & Co., we are looking for talented engineers.  You can find out more about Litle [here] (www.litle.com).
+Solve this challenge and earn a Software Development Engineering interview with Litle & Co., we are looking for talented engineers.  You can find out more about Litle [here] (http://www.litle.com).
 
 Problem
 -------
